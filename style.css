@@ -136,18 +136,6 @@ body {
   min-width: 100px;
 }
 
-.cat {
-  width: 325px;
-  height: 230px;
-  margin-bottom: -9px;
-  margin-left: -2px;
-}
-
-img.cat:hover {
-  opacity: 0.25;
-}
-
-
 footer {
   margin: 0 0 40px 0;
 }
